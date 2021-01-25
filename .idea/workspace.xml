@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="181d81b2-9639-41e0-a9f3-9553ee5dc8a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kiAntsUAxBIeYOcZDgy5v2eWbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../caralibro-sith" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="impostoresPaises.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.unahur.obj2.impostoresPaises.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaTest: Consulta 4: Saber los cinco paises más poblados" type="ioKotest" factoryName="Kotest" temporary="true" defaultName="singleModule">
+      <module name="impostoresPaises.test" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$MODULE_WORKING_DIR$" />
+      <option name="programParameters" value="" />
+      <option name="specName" value="ar.edu.unahur.obj2.impostoresPaises.ProgramaTest" />
+      <option name="testPath" value="Programa -- Consulta 4: Saber los cinco paises más poblados" />
+      <option name="packageName" value="" />
+      <option name="vmparams" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaTest: Consulta 5: Saber el continente más poblado" type="ioKotest" factoryName="Kotest" temporary="true" defaultName="singleModule">
+      <module name="impostoresPaises.test" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$MODULE_WORKING_DIR$" />
+      <option name="programParameters" value="" />
+      <option name="specName" value="ar.edu.unahur.obj2.impostoresPaises.ProgramaTest" />
+      <option name="testPath" value="Programa -- Consulta 5: Saber el continente más poblado" />
+      <option name="packageName" value="" />
+      <option name="vmparams" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaTest: Programa" type="ioKotest" factoryName="Kotest" temporary="true" defaultName="singleModule">
+      <module name="impostoresPaises.test" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$MODULE_WORKING_DIR$" />
+      <option name="programParameters" value="" />
+      <option name="specName" value="ar.edu.unahur.obj2.impostoresPaises.ProgramaTest" />
+      <option name="testPath" value="Programa" />
+      <option name="packageName" value="" />
+      <option name="vmparams" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaTest: asd" type="ioKotest" factoryName="Kotest" temporary="true" defaultName="singleModule">
+      <module name="impostoresPaises.test" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$MODULE_WORKING_DIR$" />
+      <option name="programParameters" value="" />
+      <option name="specName" value="ar.edu.unahur.obj2.impostoresPaises.ProgramaTest" />
+      <option name="testPath" value="Programa -- Consulta 4: Saber los cinco paises más poblados -- asd" />
+      <option name="packageName" value="" />
+      <option name="vmparams" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotest.ProgramaTest: Programa" />
+        <item itemvalue="Kotest.ProgramaTest: Consulta 5: Saber el continente más poblado" />
+        <item itemvalue="Kotest.ProgramaTest: Consulta 4: Saber los cinco paises más poblados" />
+        <item itemvalue="Kotest.ProgramaTest: asd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="181d81b2-9639-41e0-a9f3-9553ee5dc8a6" name="Default Changelist" comment="" />
+      <created>1606173248990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606173248990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="117" key="FileChooserDialogImpl" timestamp="1606806225030">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="117" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1606806225030" />
+    <state width="1316" height="174" key="GridCell.Tab.0.bottom" timestamp="1606177809048">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1606177809048" />
+    <state width="1316" height="174" key="GridCell.Tab.0.center" timestamp="1606177809048">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1606177809048" />
+    <state width="1316" height="174" key="GridCell.Tab.0.left" timestamp="1606177809048">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1606177809048" />
+    <state width="1316" height="174" key="GridCell.Tab.0.right" timestamp="1606177809048">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="174" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1606177809048" />
+  </component>
+</project>
